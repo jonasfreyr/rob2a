@@ -124,7 +124,7 @@ void Turn(bool direct, float rot)
 
 task main(){
 while (true){
-	if (SensorValue(lightSensor) < 100){
+	if (SensorValue(lightSensor) < 150){
 		if (SensorValue(sonarSensor) < 30){
 			motorStop();
 			Turn(false, ROTATE);
