@@ -1,16 +1,16 @@
-Motor 2 - Kló
-Motor 3 - Lyfta Kló
-Motor 4 - Hægri Dekk
+Motor 2 - KlÃ³
+Motor 3 - Lyfta KlÃ³
+Motor 4 - HÃ¦gri Dekk
 Motor 6 - Vinstri Dekk
 
-Analog 1 - Neyðarhnappur
+Analog 1 - NeyÃ°arhnappur
 Analog 2 - Limiter
 Analog 3 - Potentiometer
-Analog 4 - Hægri ColorSensor
-Analog 5 - Miðju ColorSensor
+Analog 4 - HÃ¦gri ColorSensor
+Analog 5 - MiÃ°ju ColorSensor
 Analog 6 - Vinsri ColorSensor
+Analog 8 - LightSensor
 
-Digital 4, 5 - Encoder Hægri
+Digital 4, 5 - Encoder HÃ¦gri
 Digital 6, 7 - Encoder Vinstri
 Digital 8, 9 - Sonar(input, output)
-Digital 12 - LightSensor
