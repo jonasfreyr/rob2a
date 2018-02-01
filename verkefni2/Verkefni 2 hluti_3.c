@@ -30,7 +30,7 @@
 \*----------------------------------------------------------------------------------------------------*/
 const int BASEDIST = 11.12539408020152;
 const int ROTATE = 90;
-const float Dd = 34.6 / 10.3 - 0.8;
+const float Dd = 2.559223300970874;
 void drive(int dist, bool direct){							// Robot waits for 2000 milliseconds before executing program
 
 		  // Set the encoder so that it starts counting at 0
