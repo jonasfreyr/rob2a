@@ -1,0 +1,6 @@
+Motor 2 - Kló
+Motor 3 - Snúa       
+Motor 4 - Lifta
+Motor 9 - Snúa Botni
+
+Analog 1 - Neyðarhnappur
